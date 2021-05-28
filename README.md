@@ -6,4 +6,4 @@ By using data from a retailer having 45 stores, I created 2 tools to help Produc
 The solution utilizes various technique including time series forecasting and supervised machine learning to solve the problem.
 
 
-## Project directory structure
+
